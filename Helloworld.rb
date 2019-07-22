@@ -1,7 +1,7 @@
 class Helloworld < Formula
   desc "an elf executable (golang) that prints hello world"
   homepage "https://github.com/bravespacemonkey/brew_playground"
-  version "0.4"
+  version "1.1"
 
   url "https://opentikva.s3.amazonaws.com/hello", :using => :curl
 
